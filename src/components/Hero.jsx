@@ -28,7 +28,7 @@ export default function Hero() {
         </div>
         <div className="portrait-caption">
           <span className="caption-line" />
-          <div><strong>Curious by nature.</strong><small>Building one project at a time.</small></div>
+          <div><strong>Networking enthusiast</strong><small>Building safe backend</small></div>
         </div>
         <div className="floating-tag"><span className="tag-symbol">{'{ }'}</span><span>Learning<br /><strong>by building</strong></span></div>
       </div>
