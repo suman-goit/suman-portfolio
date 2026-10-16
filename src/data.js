@@ -4,7 +4,7 @@ export const profile = {
   email: 'wills6781@gmail.com',
   github: 'https://github.com/suman-goit',
   whatsapp: 'https://wa.me/9779811704401',
-  demo: 'https://minor-project-iii-ii.vercel.app',
+  demo: 'https://nepali-diet-recommendation-system.vercel.app/',
 }
 
 export const skillGroups = [
